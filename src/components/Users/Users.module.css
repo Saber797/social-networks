@@ -1,0 +1,54 @@
+.wrap{
+    display: flex;
+    gap: 50px;
+    padding: 30px;
+    align-items: center;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.image{
+    width: 150px;
+    border-radius: 49%;
+}
+.items{
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px black;
+    border-radius: 8px;
+}
+.leftitems{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+
+    
+}
+.name{
+    font-size: 24px;
+    color: white;
+}
+.status{
+    font-size: 18px;
+}
+.rightitems{
+    display: flex;
+    flex-direction: column;
+    gap: 35px; 
+}
+.contry{
+    font-size: 18px; 
+}
+.city{
+    font-size: 18px; 
+}
+.btn{
+    padding: 6px 25px;
+    background-color:  greenyellow;
+    border: none;
+    border-radius: 7px;
+}

@@ -1,0 +1,19 @@
+.item {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    padding: 15px;
+    margin-top: 20px;
+     
+    p{
+        color: white;
+    }
+    .vasya {
+        width: 50px;
+        border-radius: 50%;
+    }
+}
+.like{
+    font-size: 24px;
+    color: red;
+}

@@ -1,0 +1,22 @@
+.navdar{
+    grid-area: n;
+    padding: 15px;
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  
+    a{
+      font-size: 24px;
+      text-decoration: none;
+    }
+  }
+  .item{
+    a{
+
+        color: white;
+    }
+  }
+  .item active{
+    color: gold;
+  }

@@ -1,0 +1,35 @@
+.dialog{
+    display: grid;
+    grid-template-columns: 5fr  10fr;
+    grid-gap: 24px;
+    padding: 15px;
+}
+
+.dialogUser{
+   padding: 5px;
+   display: flex;
+   flex-direction: column;
+   gap: 15px;
+}
+
+.user a{
+color: white;
+text-decoration: none;
+font-size: 20px;
+
+}
+
+.masseges{
+padding: 5px;
+}
+
+.massege{
+    color: burlywood;
+}
+.addUserPost{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    gap: 12px;
+}

@@ -1,0 +1,12 @@
+.item{
+padding: 10px;
+display: flex;
+flex-direction: column;
+gap: 10px;
+    textarea{
+        width: 80%;
+    }
+    button{
+        width: 80px;
+    }
+}
