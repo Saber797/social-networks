@@ -15,7 +15,7 @@ const App = () => {
   
   return (
       <div className='wrapper'>
-        <Header />
+        {/* <Header /> */}
         <Navbar />
         <div className='wrapper-dialog'>
           <Routes>
